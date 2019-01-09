@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Bryan's GitHub Project Pages
+
+### These are the first edits on the page.
 
 You can use the [editor on GitHub](https://github.com/another-bryan/Project_pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -2,6 +2,15 @@
 
 ### These are the first edits on the page.
 
+[Here is the link to view this as a webpage](https://another-bryan.github.io/Project_pages)
+
+
+
+
+
+
+### BELOW is the default index.md file (kept for my reference)
+
 You can use the [editor on GitHub](https://github.com/another-bryan/Project_pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
